@@ -1,3 +1,10 @@
+# Uso das APIs do HTML 5
+
+Antigamente era muito dificl criar uma página web que contive-se videos, mas agora existe uma palavra, um tag que pode nos ajudar muito:
+"A tag video", do html 5 (fonte: https://www.w3schools.com/tags/tag_video.asp )
+
+
+------------------------------------Original----------------------------------
 # Node JS Zoom Clone
 
 Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
